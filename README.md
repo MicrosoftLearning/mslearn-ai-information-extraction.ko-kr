@@ -1,5 +1,3 @@
-**⚠️ This GitHub repo will retire on 30th December 2025.** 
-
 # AI 기반 정보 추출
 <!-- Change the title above as appropriate -->
 
